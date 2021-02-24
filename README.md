@@ -11,5 +11,10 @@ npm start
 git init
 
 git add .
+
+git commit -m "Proyecto inicial"
+
+git remote add <url>
+
+git push -u origin master
 ```
-- 
